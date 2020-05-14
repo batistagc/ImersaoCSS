@@ -1,0 +1,33 @@
+body{
+  background-image: url(https://png.pngtree.com/png-clipart/20190515/original/pngtree-abstract-ethnic-african-pattern-png-image_3635909.jpg);
+  background-size: auto 100vh;
+  font-family: DejaVu Sans Mono, monospace;
+  height: 100vh
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.menu{
+  background: #b08d25;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none; 
+}
+
+.site-title{
+  text-align: center;
+  color: whitesmoke;
+}
