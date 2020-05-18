@@ -8,7 +8,7 @@
 
 body{
   background-image: url(https://png.pngtree.com/png-clipart/20190515/original/pngtree-abstract-ethnic-african-pattern-png-image_3635909.jpg);
-  background-size: auto 100vw;
+  background-size: auto 100vh;
   font-family: DejaVu Sans Mono, monospace;
   height: 100vh
 }
@@ -23,8 +23,8 @@ body{
 
 @media (min-width: 600px) {
   body{
-    font-size: 120x;
-    background-size: 100vw;
+    font-size: 20px;
+    background-size: 100vh;
   }
 } 
 
